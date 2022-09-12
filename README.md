@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a dynamic website which allows user to watch videos available on Youtube and surf them as per user's will being a great altrnative to Youtube.
+This is a dynamic website which allows user to watch videos available on Youtube and surf them as per user's will being a great alternative to Youtube.
 
 Built using ReactJs with Javascript functionalities applied.
 
