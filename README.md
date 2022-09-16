@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a dynamic website which allows user to watch videos available on Youtube and surf them as per user's will being a great alternative to Youtube.
 
-Built using ReactJs with Javascript functionalities applied.
+Built using ReactJs with Material UI applied and API's using Rapid API.
 
 Components created are in components folder inside "src" folder.
 
